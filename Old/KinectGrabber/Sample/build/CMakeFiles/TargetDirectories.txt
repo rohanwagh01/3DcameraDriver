@@ -1,0 +1,3 @@
+/home/msi-ub22-camdev/Documents/3DcameraDriver/KinectGrabber/Sample/build/CMakeFiles/sample.dir
+/home/msi-ub22-camdev/Documents/3DcameraDriver/KinectGrabber/Sample/build/CMakeFiles/edit_cache.dir
+/home/msi-ub22-camdev/Documents/3DcameraDriver/KinectGrabber/Sample/build/CMakeFiles/rebuild_cache.dir

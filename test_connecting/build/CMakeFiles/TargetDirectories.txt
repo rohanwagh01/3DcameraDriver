@@ -1,0 +1,3 @@
+/home/msi-ub22-camdev/Documents/3DcameraDriver/test_connecting/build/CMakeFiles/test_connecting.dir
+/home/msi-ub22-camdev/Documents/3DcameraDriver/test_connecting/build/CMakeFiles/edit_cache.dir
+/home/msi-ub22-camdev/Documents/3DcameraDriver/test_connecting/build/CMakeFiles/rebuild_cache.dir

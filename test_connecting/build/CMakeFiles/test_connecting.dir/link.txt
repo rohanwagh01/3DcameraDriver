@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/test_connecting.dir/connect.o -o test_connecting  -lk4a 
